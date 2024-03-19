@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-# Teck Stack
+### :ballot_box_with_check: Teck Stack
+---
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)

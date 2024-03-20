@@ -10,15 +10,15 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,cs,js,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,dart,bash,ansible,terraform)](https://skillicons.dev)
 
 ### Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,django,flask,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,django,flutter)](https://skillicons.dev)
 
 ### Others
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,git,github,gcp,kubernetes,postgresql,mysql,mongodb,graphql,linux,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vim,idea,nginx,aws,kubernetes,openstack,mysql,postgres,redis,firebase,supabase,postman,jenkins,github,gitlab,docker,grafana,prometheus,cloudflare,elasticsearch)](https://skillicons.dev)
 
 ## ⚙️ Stats
 

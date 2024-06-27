@@ -45,8 +45,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wingflower&show_icons=true&theme=chartreuse-dark)
+-->
+### Hi there 👋
+---
+Contact.
+wing.flower.k@gmail.com
 
-### :ballot_box_with_check: Teck Stack
+<!--
+### :ballot_box_with_check: Tech Stack
 ---
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -105,9 +111,4 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-
 -->
-### Hi there 👋
----
-Contact.
-Email. wing.flower.k@gmail.com
